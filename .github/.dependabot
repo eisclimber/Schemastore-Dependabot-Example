@@ -8,3 +8,5 @@ updates:
     exclude-group:
       exclude-patterns:
         - .github/workflows/exclude-*.yml
+    applies-to-group:
+      applies-to: version-updates
